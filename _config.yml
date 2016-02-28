@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4761288872667343
+  lightness: 0.5046880205481353
+  rhythmicContrast: 0.7004242508616343
+  saturation: 0.8213590322868971
+cta: {}
+layout_spectrum: 0.952702
+name: InnocenceTeam
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.806306
