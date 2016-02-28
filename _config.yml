@@ -6,12 +6,12 @@ color:
     - '#788088'
     - '#4890C8'
     - '#70B0E0'
-  brandStrength: 0.968468
-  lightness: 0.504688
-  rhythmicContrast: 0.700424
-  saturation: 0.821359
+  brandStrength: 1
+  lightness: 0.765765
+  rhythmicContrast: 0.716216
+  saturation: 0.484234
 cta: {}
-layout_spectrum: 0.952702
+layout_spectrum: 0.817567
 name: FreeScottDavis
 opengraph: {}
 purpose: {}
