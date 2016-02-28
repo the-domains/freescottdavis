@@ -6,10 +6,10 @@ color:
     - '#788088'
     - '#4890C8'
     - '#70B0E0'
-  brandStrength: 0.4761288872667343
-  lightness: 0.5046880205481353
-  rhythmicContrast: 0.7004242508616343
-  saturation: 0.8213590322868971
+  brandStrength: 0.968468
+  lightness: 0.504688
+  rhythmicContrast: 0.700424
+  saturation: 0.821359
 cta: {}
 layout_spectrum: 0.952702
 name: FreeScottDavis
