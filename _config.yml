@@ -1,4 +1,19 @@
-analytics: {}
+name: FreeScottDavis
+favicon: null
+layout_spectrum: 0.817567
+typography_spectrum: 0.806306
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#98B8D0'
@@ -6,13 +21,11 @@ color:
     - '#788088'
     - '#4890C8'
     - '#70B0E0'
-  brandStrength: 0.641891
-  lightness: 0.639639
-  rhythmicContrast: 0.592342
+  brandStrength: 0.25
+  lightness: 0.375
   saturation: 0.382882
-cta: {}
-layout_spectrum: 0.817567
-name: FreeScottDavis
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.806306
+  rhythmicContrast: 0.25
+purpose:
+  - name: null
+    item: null
+    url: null
