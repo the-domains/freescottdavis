@@ -1,19 +1,4 @@
-name: FreeScottDavis
-favicon: null
-layout_spectrum: 0.817567
 typography_spectrum: 0.806306
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#98B8D0'
@@ -25,6 +10,22 @@ color:
   lightness: 0.375
   saturation: 0.382882
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.817567
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: FreeScottDavis
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Free Scott Davis
 purpose:
   - name: null
     item: null
